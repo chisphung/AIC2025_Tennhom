@@ -2,7 +2,7 @@ from ultralytics import RTDETR
 import sys
 def infer_onnx(model_path, image_path):
     model = RTDETR(model_path, task='detect')
-    results = model(image_path, conf=0.45)
+    results = model(image_path, imgsz=1280, conf=0.45, save_txt=True, save_conf=True, device=[0,1])
     return results
 
 if __name__ == "__main__":
