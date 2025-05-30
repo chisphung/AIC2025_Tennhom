@@ -15,8 +15,3 @@ if __name__ == "__main__":
     
     results = infer_onnx(model_path, image_path)
     print(results)
-    # Save results to a file or process them as needed
-    with open('results.txt', 'w') as f:
-        for result in results:
-            f.write(str(result) + '\n')
-    print("Inference completed. Results saved to results.txt")
