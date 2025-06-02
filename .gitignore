@@ -11,6 +11,7 @@ __pycache__/
 *.pth
 *.pt
 *.onnx
+*.txt
 
 
 # C extensions
