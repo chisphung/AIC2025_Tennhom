@@ -286,16 +286,3 @@ This project is for the AI City Challenge 2025 competition.
 - [AI City Challenge](https://www.aicitychallenge.org/)
 
 ---
-
-## 📖 Citation
-
-If you use our work, please cite:
-
-```bibtex
-@misc{huang2024deim,
-    title={DEIM: DETR with Improved Matching for Fast Convergence},
-    author={Shihua, Huang and Zhichao, Lu and Xiaodong, Cun and Yongjun, Yu and Xiao, Zhou and Xi, Shen},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-    year={2025},
-}
-```
