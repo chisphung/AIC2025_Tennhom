@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![DEIM](https://img.shields.io/badge/Model-DEIM-orange.svg)
-![CVPR 2025](https://img.shields.io/badge/CVPR-2025-green.svg)
 
 ## 📋 Overview
 
@@ -248,7 +247,7 @@ python tools/benchmark/get_info.py \
 
 | Model       | Description                             | Status       |
 | ----------- | --------------------------------------- | ------------ |
-| **DEIM**    | DETR with Improved Matching (CVPR 2025) | 🏆 **Final** |
+| **DEIM**    | DETR with Improved Matchin              |  **Final** |
 | RT-DETR     | Real-Time DEtection TRansformer         | Baseline     |
 | Drone-DETR  | Optimized for drone/aerial imagery      | Explored     |
 | SO-DETR     | Small Object DETR variant               | Explored     |
@@ -281,7 +280,7 @@ This project is for the AI City Challenge 2025 competition.
 
 ## 📚 References
 
-- [DEIM Paper (CVPR 2025)](https://arxiv.org/abs/2412.04234)
+- [DEIM Paper](https://arxiv.org/abs/2412.04234)
 - [DEIM GitHub](https://github.com/Intellindust-AI-Lab/DEIM)
 - [RT-DETR Paper](https://arxiv.org/abs/2304.08069)
 - [AI City Challenge](https://www.aicitychallenge.org/)
