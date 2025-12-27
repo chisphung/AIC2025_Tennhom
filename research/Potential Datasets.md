@@ -1,0 +1,2 @@
+- [UA-DETRAC](https://www.kaggle.com/datasets/dtrnngc/ua-detrac-dataset)
+- https://datasetninja.com/hit-uav

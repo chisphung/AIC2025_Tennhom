@@ -1,0 +1,8 @@
+- Generate more night/evening image with cycle gan
+- https://github.com/pvnieo/Low-light-Image-Enhancement
+- https://github.com/bbonik/image_enhancement
+- https://github.com/lwcver/legnet
+- Kalman filter
+- https://jonathan-hui.medium.com/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
+- https://github.com/ppingzhang/Deep-Learning-Based-Image-Compression
+- https://github.com/Nathancgy/RT-DETR-SEA
